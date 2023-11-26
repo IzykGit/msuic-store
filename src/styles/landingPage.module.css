@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.landingContainer {
+    background-image: url(C:\Users\lance\Desktop\Developement\Coding\music-store\src\assets\cassets.jpg);
+    background-size: cover;
+    height: 40vh;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.storeTitle {
+    text-align: center;
+    border: 1px solid transparent;
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.storeTitle > h1 {
+    font-size: 11vh;
+    position: relative;
+    margin-bottom: 0;
+}
+
+.storeTitle > p {
+    font-size: 5vh;
+    position: relative;
+    margin-top: 0;
+}
